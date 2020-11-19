@@ -1,3 +1,4 @@
+![complete_system](complete_system.jpg)
 # 2.4GHz-embedded-radio-control-system-with-telemetry
 Embedded real-time operating system using FreeRTOS. 
 The system features: 
@@ -9,3 +10,7 @@ All of the data measured by the sensors is constantly being transmitted and disp
 
 All of the code was developed using Sloeber, an Eclipse IDE.
 You can watch the system in action here: https://www.youtube.com/watch?v=ApxDdUlQ5Mk
+
+Here you can see the schematics of the system:
+![airplane_schematics_diagram](airplane_schematics_diagram.jpg)
+![controller_schematics_diagram](controller_schematics_diagram.png)
